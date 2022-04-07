@@ -1,5 +1,4 @@
 # ASCII-Converter
 Turn images, videos, and even live view video into ASCII Text
 
-Project was created on a whim. Code is not clean or organized. The code is just there.
-I might come back to clean up and perfect this project one day but that wont be for a while.
+The base functionality is implemented, but the code is not clean nor organized. I am currently in the process of doing so.
